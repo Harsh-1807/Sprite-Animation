@@ -22,11 +22,14 @@ This project demonstrates an interactive character animation using HTML, CSS, an
 
 ## Installation
 
+To get started, you'll need to download the Shadow_dog sprite sheet:
 
-<ol>
-  <li>Clone the repository:</li>
-</ol>
+- [Shadow_dog Sprite Sheet](http://frankslaboratory.co.uk/downloads/shadow_dog.png)
 
-```bash
-git clone https://github.com/yourusername/Sprite-Animation.git
-cd Sprite-Animation
+Once you have downloaded the sprite sheet, follow these steps:
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/Sprite-Animation.git
+   cd Sprite-Animation
